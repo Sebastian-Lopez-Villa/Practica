@@ -296,12 +296,12 @@ input:hover + label .description{
 }
 
 .card[for="c1"]{
-    background: url("/Images/rick2.webp") bottom center no-repeat;
+    background: url("../Images/rick2.webp") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c2"]{
-    background: url(/Images/daryl2.jpg) bottom center no-repeat;
+    background: url("../Images/daryl2.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
@@ -311,62 +311,62 @@ input:hover + label .description{
 }
 
 .card[for="c4"]{
-    background: url(..\Images\michone.jpg) bottom center no-repeat;
+    background: url("../Images/michone.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c5"]{
-    background: url("https://github.com/Sebastian-Lopez-Villa/Practica/blob/Main/Images/maggie.jpg?raw=true") bottom center no-repeat;
+    background: url("../Images/maggie.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c6"]{
-    background: url(https://github.com/Sebastian-Lopez-Villa/Practica/blob/Main/Images/glenn.jpg?raw=true) bottom center no-repeat;
+    background: url("../Images/glenn.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c7"]{
-    background: url(Images/carl.jpg) bottom center no-repeat;
+    background: url("../Images/carl.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c8"]{
-    background: url(Images/hershel.jpg) bottom center no-repeat;
+    background: url("../Images/hershel.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c9"]{
-    background: url(Images/sasha.jpg) bottom center no-repeat;
+    background: url("../Images/sasha.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c10"]{
-    background: url(Images/beth.jpg) bottom center no-repeat;
+    background: url("../Images/beth.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c11"]{
-    background: url(Images/rosita.jpg) bottom center no-repeat;
+    background: url("../Images/rosita.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c12"]{
-    background: url(Images/tara.jpg) bottom center no-repeat;
+    background: url("../Images/tara.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c13"]{
-    background: url(Images/jesus.jpg) bottom center no-repeat;
+    background: url("../Images/jesus.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c14"]{
-    background: url(Images/aaron.jpg) bottom center no-repeat;
+    background: url("../Images/aaron.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c15"]{
-    background: url(Images/king.jpg) bottom center no-repeat;
+    background: url("../Images/king.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
