@@ -311,7 +311,7 @@ input:hover + label .description{
 }
 
 .card[for="c4"]{
-    background: url(/Images/michone.jpg) bottom center no-repeat;
+    background: url("C:\Users\sebas\Documents\Practica\Images\michone.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
