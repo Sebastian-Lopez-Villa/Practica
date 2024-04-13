@@ -296,27 +296,27 @@ input:hover + label .description{
 }
 
 .card[for="c1"]{
-    background: url(Images/rick2.webp) bottom center no-repeat;
+    background: url(/Images/rick2.webp) bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c2"]{
-    background: url(Images/daryl2.jpg) bottom center no-repeat;
+    background: url(/Images/daryl2.jpg) bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c3"]{
-    background: url(Images/carol.jpg) bottom center no-repeat;
+    background: url(/Images/carol.jpg) bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c4"]{
-    background: url(Images/michone.jpg) bottom center no-repeat;
+    background: url(/Images/michone.jpg) bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c5"]{
-    background: url(Images/maggie.jpg) bottom center no-repeat;
+    background: url(/Images/maggie.jpg) bottom center no-repeat;
     background-size: auto 100%;
 }
 
