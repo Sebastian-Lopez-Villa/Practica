@@ -306,22 +306,22 @@ input:hover + label .description{
 }
 
 .card[for="c3"]{
-    background: url(/Images/carol.jpg) bottom center no-repeat;
+    background: url("../Images/carol.jpg") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c4"]{
-    background: url("C:\Users\sebas\Documents\Practica\Images\michone.jpg") bottom center no-repeat;
+    background: url(..\Images\michone.jpg) bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c5"]{
-    background: url(/Images/maggie.jpg) bottom center no-repeat;
+    background: url("https://github.com/Sebastian-Lopez-Villa/Practica/blob/Main/Images/maggie.jpg?raw=true") bottom center no-repeat;
     background-size: auto 100%;
 }
 
 .card[for="c6"]{
-    background: url(Images/glenn.jpg) bottom center no-repeat;
+    background: url(https://github.com/Sebastian-Lopez-Villa/Practica/blob/Main/Images/glenn.jpg?raw=true) bottom center no-repeat;
     background-size: auto 100%;
 }
 
