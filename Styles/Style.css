@@ -296,7 +296,7 @@ input:hover + label .description{
 }
 
 .card[for="c1"]{
-    background: url(Images/rick2.webp) bottom center no-repeat;
+    background: url(./Images/rick2.webp) bottom center no-repeat;
     background-size: auto 100%;
 }
 
